@@ -3,6 +3,7 @@ import Adma from "./component/Adma";
 import Ulina from "./component/ulina";
 import Astuti from "./component/astuti";
 import Dewita from "./component/dewita";
+import Litha from "./component/Litha";
 
 export default function App() {
   return (
@@ -19,6 +20,7 @@ export default function App() {
       <Ulina />
       <Astuti />
       <Dewita />
+      <Litha />
     </div> //admaja
   );
 }
