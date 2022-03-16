@@ -1,5 +1,10 @@
 function Litha() {
-  return <h1>This is component from litha</h1>;
+  return (
+    <div>
+      <h1>This is component from litha</h1>
+      <button>Klik Me</button>
+    </div>
+  );
 }
 
 export default Litha;

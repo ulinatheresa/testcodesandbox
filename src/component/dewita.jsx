@@ -1,5 +1,5 @@
 function dewita() {
-  return <h2>Dewita Punya</h2>;
+  return <h2>ulang dulu</h2>;
 }
 
 export default dewita;
