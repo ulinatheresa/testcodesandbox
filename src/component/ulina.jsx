@@ -1,5 +1,5 @@
 function Ulina() {
-  return <h1>ini page ulina</h1>;
+  return <h1>ini judul baru hehe</h1>;
 }
 
 export default Ulina;
